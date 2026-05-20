@@ -1,0 +1,76 @@
+
+[
+    {
+        "title": "Lunar Crater Simulation",
+        "year": "2023",
+        "image": "images/screenshot1.png",
+        "description": "This forward simulation maps the cratering pattern on the moon's surface, spanning 2 billion years from the beginning of time."
+    },
+    {
+        "title": "Modeling the Atmospheres of Brown Dwarfs",
+        "year": "2025",
+        "image": "images/screenshot2.png",
+        "description": "Using UCDMCMC, we model the atmoshperes of brown dwarfs using various models such as elfowl, and btsettle"
+    },
+    {
+        "title": "Nutrition Data Visualization",
+        "year": "2025",
+        "image": "images/screenshot3.png",
+        "description": "Whole Foods is the Healthiest Store Across Multiple Metrics. We analyzed a dataset with nutritional info on many stores"
+    },
+    {
+        "title": "Total Strain on Workers: Data Vizualization",
+        "year": "2025",
+        "image": "images/screenshot4.png",
+        "description": "This project showcases how the same data can be used to show opposite trends. Here I am vizulaizing the total strain on workers, and I use multiple metrics such as the old-age dependency ratio, as well as the total-dependency ratio."
+    },
+    {
+        "title": "Brown Dwarf Identification Model",
+        "year": "2025",
+        "image": "images/screenshot5.png",
+        "description": "We use gaussian resampling to create synthetic spectra and add it to our sample of brown dwarfs. We made a binary machine learning model to identify brown dwarfs."
+    },
+    {
+        "title": "Catalog of Galaxies",
+        "year": "2024",
+        "image": "images/screenshot6.png",
+        "description": "We created a catalog of galaxies, here we have the non interacting objects. "
+    },
+    {
+        "title": "Geospatial Visualization of Bikemaps",
+        "year": "2025",
+        "image": "images/screenshot7.png",
+        "description": "Using geospatial bikemap data, we created an interactive, immersive map that shows bike traffic in the Boston area during different times of day.",
+        "url": "https://julia-haynes.github.io/bikemaps/" 
+    },
+    {
+        "title": "Project 8",
+        "year": "2022",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Project 8 coming soon"
+    },
+    {
+        "title": "Project 9",
+        "year": "2022",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Project 9 coming soon"
+    },
+    {
+        "title": "Project 10",
+        "year": "2022",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Project 10 coming soon"
+    },
+    {
+        "title": "Project 11",
+        "year": "2022",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Project 11 coming soon"
+    },
+    {
+        "title": "Project 12",
+        "year": "2022",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Project 12 coming soon"
+    }
+]
